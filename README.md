@@ -1,24 +1,26 @@
-# Student Grade Calculator 🎓
+# Sales Data Analysis Project
 
-## 📌 Project Description
-This Python program calculates a student's grade based on marks (0–100).
-It also displays encouraging messages based on performance.
+A comprehensive data analysis pipeline that processes sales data, calculates key metrics, generates visualizations, and produces an automated report.
 
-## 🛠 Features
-- Uses if-elif-else for grading logic
-- Input validation (0–100 only)
-- While loop for invalid input handling
-- Functions for modular code
-- Encouraging messages for each grade
+## Project Structure
+- `data/`: Contains the raw sales data.
+- `visualizations/`: Generated plots (Product sales, Regional distribution, Trends).
+- `report/`: Final markdown report with insights.
+- `main.py`: Core analysis script.
+- `requirements.txt`: Python dependencies.
 
-## ▶ How to Run
-1. Install Python
-2. Run: python grade_calculator.py
-3. Enter student name and marks
+## How to Run
+1. Install dependencies:
+   ```bash
+   pip install -r requirements.txt
+   ```
+2. Run the analysis:
+   ```bash
+   python main.py
+   ```
 
-## 📊 Grading System
-A: 90–100  
-B: 80–89  
-C: 70–79  
-D: 60–69  
-F: 0–59  
+## Features
+- Data cleaning and preprocessing
+- Key metric calculation (Revenue, AOV, Units, Customers)
+- Multi-type visualization (Bar, Pie, Line charts)
+- Automated report generation with insights
