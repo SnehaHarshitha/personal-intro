@@ -1,0 +1,101 @@
+Customer_ID,Name,Email,City,Loyalty_Segment,Signup_Date
+CUST001,User 0,user0@example.com,Dallas,Loyal,2023-03-26
+CUST002,User 1,user1@example.com,Houston,Loyal,2023-11-07
+CUST003,User 2,user2@example.com,Phoenix,Loyal,2023-05-27
+CUST004,User 3,user3@example.com,Houston,Premium,2023-10-16
+CUST005,User 4,user4@example.com,San Antonio,Standard,2023-07-02
+CUST006,User 5,user5@example.com,San Jose,Premium,2023-12-31
+CUST007,User 6,user6@example.com,San Jose,Loyal,2023-04-02
+CUST008,User 7,user7@example.com,Chicago,Premium,2023-06-10
+CUST009,User 8,user8@example.com,Chicago,Premium,2023-04-13
+CUST010,User 9,user9@example.com,San Antonio,Standard,2023-06-28
+CUST011,User 10,user10@example.com,Los Angeles,Loyal,2023-07-02
+CUST012,User 11,user11@example.com,Phoenix,Premium,2023-03-23
+CUST013,User 12,user12@example.com,Los Angeles,Loyal,2023-11-29
+CUST014,User 13,user13@example.com,Los Angeles,Loyal,2023-09-07
+CUST015,User 14,user14@example.com,San Jose,New,2023-10-09
+CUST016,User 15,user15@example.com,Chicago,New,2023-04-18
+CUST017,User 16,user16@example.com,Los Angeles,Standard,2023-07-20
+CUST018,User 17,user17@example.com,San Diego,Standard,2023-08-19
+CUST019,User 18,user18@example.com,San Diego,Loyal,2023-12-20
+CUST020,User 19,user19@example.com,Phoenix,Loyal,2023-04-01
+CUST021,User 20,user20@example.com,Phoenix,Loyal,2023-01-13
+CUST022,User 21,user21@example.com,Philadelphia,Premium,2023-02-09
+CUST023,User 22,user22@example.com,New York,New,2023-03-18
+CUST024,User 23,user23@example.com,Los Angeles,Premium,2023-05-26
+CUST025,User 24,user24@example.com,Los Angeles,Premium,2023-03-02
+CUST026,User 25,user25@example.com,Philadelphia,Loyal,2023-01-09
+CUST027,User 26,user26@example.com,Dallas,New,2023-07-08
+CUST028,User 27,user27@example.com,Philadelphia,Loyal,2023-09-22
+CUST029,User 28,user28@example.com,Chicago,Standard,2023-09-23
+CUST030,User 29,user29@example.com,Dallas,Loyal,2023-05-23
+CUST031,User 30,user30@example.com,Phoenix,Standard,2023-06-03
+CUST032,User 31,user31@example.com,San Antonio,Loyal,2023-08-01
+CUST033,User 32,user32@example.com,Dallas,Standard,2023-10-17
+CUST034,User 33,user33@example.com,Dallas,Standard,2023-01-11
+CUST035,User 34,user34@example.com,Dallas,Premium,2023-12-04
+CUST036,User 35,user35@example.com,San Antonio,Loyal,2023-08-28
+CUST037,User 36,user36@example.com,Chicago,Loyal,2023-02-28
+CUST038,User 37,user37@example.com,Philadelphia,Loyal,2023-12-04
+CUST039,User 38,user38@example.com,New York,Standard,2023-07-29
+CUST040,User 39,user39@example.com,San Jose,Standard,2023-05-06
+CUST041,User 40,user40@example.com,Los Angeles,Loyal,2023-02-23
+CUST042,User 41,user41@example.com,Dallas,Premium,2023-02-28
+CUST043,User 42,user42@example.com,Chicago,New,2023-01-06
+CUST044,User 43,user43@example.com,Philadelphia,Loyal,2023-10-28
+CUST045,User 44,user44@example.com,Philadelphia,Loyal,2023-01-09
+CUST046,User 45,user45@example.com,Phoenix,New,2023-03-22
+CUST047,User 46,user46@example.com,Houston,Standard,2023-09-12
+CUST048,User 47,user47@example.com,Phoenix,New,2023-06-08
+CUST049,User 48,user48@example.com,Dallas,New,2023-03-10
+CUST050,User 49,user49@example.com,San Antonio,Premium,2023-12-08
+CUST051,User 50,user50@example.com,Phoenix,New,2023-07-04
+CUST052,User 51,user51@example.com,Phoenix,Standard,2023-01-16
+CUST053,User 52,user52@example.com,San Diego,Premium,2023-02-16
+CUST054,User 53,user53@example.com,San Antonio,Standard,2023-11-05
+CUST055,User 54,user54@example.com,Houston,New,2023-12-24
+CUST056,User 55,user55@example.com,Dallas,New,2023-10-11
+CUST057,User 56,user56@example.com,Dallas,Standard,2023-04-27
+CUST058,User 57,user57@example.com,Phoenix,Standard,2023-06-20
+CUST059,User 58,user58@example.com,Dallas,Loyal,2023-12-07
+CUST060,User 59,user59@example.com,San Diego,New,2023-05-28
+CUST061,User 60,user60@example.com,San Antonio,Loyal,2023-05-01
+CUST062,User 61,user61@example.com,Phoenix,Premium,2023-04-16
+CUST063,User 62,user62@example.com,San Diego,Loyal,2023-03-08
+CUST064,User 63,user63@example.com,Philadelphia,New,2023-10-16
+CUST065,User 64,user64@example.com,San Jose,Premium,2023-11-18
+CUST066,User 65,user65@example.com,Houston,Premium,2023-07-14
+CUST067,User 66,user66@example.com,Los Angeles,Standard,2023-06-11
+CUST068,User 67,user67@example.com,Philadelphia,Loyal,2023-08-20
+CUST069,User 68,user68@example.com,New York,New,2023-08-09
+CUST070,User 69,user69@example.com,Houston,Loyal,2023-11-06
+CUST071,User 70,user70@example.com,San Jose,Premium,2023-07-20
+CUST072,User 71,user71@example.com,Houston,Premium,2023-07-31
+CUST073,User 72,user72@example.com,Los Angeles,Standard,2023-02-24
+CUST074,User 73,user73@example.com,Phoenix,Standard,2023-07-12
+CUST075,User 74,user74@example.com,Dallas,New,2023-08-28
+CUST076,User 75,user75@example.com,San Diego,Loyal,2023-12-20
+CUST077,User 76,user76@example.com,Philadelphia,New,2023-10-30
+CUST078,User 77,user77@example.com,Los Angeles,Standard,2023-12-31
+CUST079,User 78,user78@example.com,Houston,Standard,2023-09-28
+CUST080,User 79,user79@example.com,Houston,New,2023-03-27
+CUST081,User 80,user80@example.com,Phoenix,Premium,2023-05-10
+CUST082,User 81,user81@example.com,Chicago,Premium,2023-12-02
+CUST083,User 82,user82@example.com,San Jose,Premium,2023-11-03
+CUST084,User 83,user83@example.com,San Diego,Standard,2023-06-25
+CUST085,User 84,user84@example.com,San Diego,New,2023-09-27
+CUST086,User 85,user85@example.com,San Jose,Premium,2023-08-13
+CUST087,User 86,user86@example.com,Philadelphia,New,2023-08-13
+CUST088,User 87,user87@example.com,San Antonio,Premium,2023-05-29
+CUST089,User 88,user88@example.com,Phoenix,Premium,2023-05-13
+CUST090,User 89,user89@example.com,Phoenix,Loyal,2023-08-07
+CUST091,User 90,user90@example.com,San Jose,Loyal,2023-07-21
+CUST092,User 91,user91@example.com,Houston,New,2023-07-24
+CUST093,User 92,user92@example.com,Los Angeles,Standard,2023-04-04
+CUST094,User 93,user93@example.com,Los Angeles,Standard,2023-08-23
+CUST095,User 94,user94@example.com,New York,Standard,2023-02-03
+CUST096,User 95,user95@example.com,New York,Loyal,2023-07-20
+CUST097,User 96,user96@example.com,Houston,Standard,2023-03-11
+CUST098,User 97,user97@example.com,New York,Standard,2023-03-24
+CUST099,User 98,user98@example.com,Phoenix,Loyal,2023-06-07
+CUST100,User 99,user99@example.com,Houston,Standard,2023-05-02
