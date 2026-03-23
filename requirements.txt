@@ -1,7 +1,7 @@
 pandas
 numpy
-matplotlib
 seaborn
-jupyter
-nbconvert
-fpdf2
+matplotlib
+plotly
+streamlit
+scipy
