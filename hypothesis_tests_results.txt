@@ -1,0 +1,15 @@
+HYPOTHESIS TEST RESULTS
+=======================
+
+1. T-Test (East vs West Sales):
+   - P-Value: 0.0074
+   - Significance: Significant
+
+2. ANOVA (Sales across Marketing Channels):
+   - P-Value: 0.2641
+   - Significance: Not Significant
+
+3. Regression Analysis (Marketing Spend vs Sales):
+   - R-Squared: 0.9231
+   - P-Value (Coefficient): 0.0000
+   - Interpretation: Marketing spend explains 92.31% of sales variance.

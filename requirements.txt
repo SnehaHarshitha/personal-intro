@@ -1,7 +1,8 @@
 pandas
 numpy
-seaborn
 matplotlib
-plotly
-streamlit
+seaborn
 scipy
+statsmodels
+fpdf
+notebook
