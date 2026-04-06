@@ -1,8 +1,7 @@
 pandas
 numpy
-seaborn
 matplotlib
-scipy
-statsmodels
-fpdf
-python-pptx
+seaborn
+scikit-learn
+python-docx
+notebook
