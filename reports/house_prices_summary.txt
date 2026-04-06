@@ -1,0 +1,4 @@
+HOUSE PRICES BUSINESS ANALYSIS
+==============================
+R-squared: 0.6764
+Interpretaton: 67.6% variation in price is explained by Area/Features.

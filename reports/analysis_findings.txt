@@ -1,0 +1,27 @@
+BUSINESS ANALYSIS FINDINGS - FINAL
+=================================
+
+Technique 1: T-test (Monthly Charges vs Churn): p=0.0163
+Technique 2: Chi-Square (Contract vs Churn): p=9.5874e-07
+
+Technique 3: Logistic Regression Summary:
+                           Logit Regression Results                           
+==============================================================================
+Dep. Variable:              Churn_Bin   No. Observations:                  500
+Model:                          Logit   Df Residuals:                      497
+Method:                           MLE   Df Model:                            2
+Date:                Sun, 05 Apr 2026   Pseudo R-squ.:                  0.6166
+Time:                        14:27:37   Log-Likelihood:                -64.812
+converged:                       True   LL-Null:                       -169.03
+Covariance Type:            nonrobust   LLR p-value:                 5.453e-46
+==================================================================================
+                     coef    std err          z      P>|z|      [0.025      0.975]
+----------------------------------------------------------------------------------
+Intercept          0.4535      0.599      0.756      0.449      -0.721       1.628
+Tenure            -0.2929      0.045     -6.464      0.000      -0.382      -0.204
+MonthlyCharges     0.0140      0.005      2.984      0.003       0.005       0.023
+==================================================================================
+
+Possibly complete quasi-separation: A fraction 0.49 of observations can be
+perfectly predicted. This might indicate that there is complete
+quasi-separation. In this case some parameters will not be identified.

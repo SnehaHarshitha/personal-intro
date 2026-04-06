@@ -1,8 +1,8 @@
 pandas
 numpy
-matplotlib
 seaborn
+matplotlib
 scipy
 statsmodels
 fpdf
-notebook
+python-pptx
