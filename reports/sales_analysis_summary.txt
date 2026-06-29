@@ -1,5 +1,0 @@
-RETAIL PERFORMANCE ANALYSIS
-===========================
-Total Transactions: 100
-Total Revenue: 12365048.00
-Top Product: Laptop
